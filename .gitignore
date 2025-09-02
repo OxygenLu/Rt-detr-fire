@@ -173,8 +173,8 @@ rtdetrv2_pytorch/dataset/
 
 
 # readme
-./README.md
-./README_cn.md
+# ./README.md
+# ./README_cn.md
 
 # ./rtdetr_pytorch/test_img/
 # ./rtdetr_pytorch/save/
