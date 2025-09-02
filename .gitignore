@@ -170,3 +170,8 @@ rtdetr_pytorch/output/
 rtdetr_pytorch/dataset/
 rtdetrv2_pytorch/output/
 rtdetrv2_pytorch/dataset/
+
+
+# readme
+./README.md
+./README_cn.md

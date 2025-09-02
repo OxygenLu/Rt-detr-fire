@@ -22,7 +22,7 @@ class YAMLConfig(BaseConfig):
 
         self.yaml_cfg = cfg 
 
-        self.log_step = cfg.get('log_step', 100)
+        self.log_step = cfg.get('log_step', 20)
         self.checkpoint_step = cfg.get('checkpoint_step', 1)
         self.epoches = cfg.get('epoches', -1)
         self.resume = cfg.get('resume', '')
