@@ -1,14 +1,17 @@
-[Original document about RT-DETR](README_.md)
+
 
 <div align="center"> 
 <h1>RT-DETR for Fire Detection <h1>
 </div>
 
-Dataset｜[BaiDuDisk](https://pan.baidu.com/s/1sFQ_ZrA2X5Bz1rOKMaAygw?pwd=tbbd) 
+[Original document about RT-DETR](README_.md)｜
+This project was conducted within the `rtdetr_pytorch` folder.
+
+Dataset｜[BaiDuDisk](https://pan.baidu.com/s/1sFQ_ZrA2X5Bz1rOKMaAygw?pwd=tbbd) | [Weight](https://pan.baidu.com/s/1y0NkJ6m2sHxgR45dSY4fPg?pwd=kyjz) 
 
 https://universe.roboflow.com/xijunlu/fire-syvwe-grojj
 
-Weight is ✨coming soooon! ！！！
+
 
 ## Framework
 <div align="center"> 
