@@ -7,9 +7,9 @@
 [Original document about RT-DETR](README_.md)｜
 This project was conducted within the `rtdetr_pytorch` folder.
 
-Dataset [[BaiDuDisk](https://pan.baidu.com/s/1sFQ_ZrA2X5Bz1rOKMaAygw?pwd=tbbd)] 
+Dataset[[BaiDuDisk](https://pan.baidu.com/s/1sFQ_ZrA2X5Bz1rOKMaAygw?pwd=tbbd)] 
 
-Weight [[BaiDuDisk](https://pan.baidu.com/s/1y0NkJ6m2sHxgR45dSY4fPg?pwd=kyjz)]
+Weight[[BaiDuDisk](https://pan.baidu.com/s/1y0NkJ6m2sHxgR45dSY4fPg?pwd=kyjz)]
 
 
 
