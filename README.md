@@ -4,7 +4,7 @@
 <h1>RT-DETR for Fire Detection <h1>
 </div>
 
-[Original document about RT-DETR](README_.md)｜
+[Original document about RT-DETR](https://github.com/lyuwenyu/RT-DETR)｜
 This project was conducted within the `rtdetr_pytorch` folder.
 
 Dataset[[BaiDuDisk](https://pan.baidu.com/s/1sFQ_ZrA2X5Bz1rOKMaAygw?pwd=tbbd)] 
